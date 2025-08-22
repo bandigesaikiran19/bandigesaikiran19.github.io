@@ -1,5 +1,5 @@
 # bandigesaikiran19.github.io
-# 🌐 Naga Chandra Sekhar Eerla — Personal Portfolio
+# 🌐 Bandige sai kiran — Personal Portfolio
 
 Welcome to my personal developer portfolio built with HTML + CSS.  
 This responsive, dark-mode–friendly site showcases my professional background, DevOps projects, skills, and achievements.
